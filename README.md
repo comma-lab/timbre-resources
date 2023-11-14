@@ -1,6 +1,6 @@
-# Timbre Resources
+# A curated list of resources for timbre analysis
 
-A curated list of tools, materials, and resources for timbre.
+[Communication Acoustics Lab](https://comma.eecs.qmul.ac.uk/), [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/), Queen Mary University of London
 
 ### Audio content analysis
 
@@ -52,7 +52,7 @@ A curated list of tools, materials, and resources for timbre.
 
 ### Readings and talks
 
-This is a small selection of conference proceedings, including video recordings of talks, and books that introduce contemporary academic discourse on timbre.
+_This is a small selection of conference proceedings, including video recordings of talks, and books that introduce contemporary academic discourse on timbre._
 
 [Nothing but Noise: Timbre and Musical Meaning at the Edge](https://global.oup.com/academic/product/nothing-but-noise-9780190495107?cc=us&lang=en&#) | First book to present an interdisciplinary theory on the contribution of timbre to musical meaning and affect.
 
