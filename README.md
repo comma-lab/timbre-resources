@@ -1,4 +1,6 @@
-# A curated list of resources for timbre analysis
+# Timbre Resources
+
+This is a living document of resources to support digital instrument makers and music technologists work with and design timbre. Community contributions via pull requests are welcomed.
 
 [Communication Acoustics Lab](https://comma.eecs.qmul.ac.uk/), [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/), Queen Mary University of London
 
