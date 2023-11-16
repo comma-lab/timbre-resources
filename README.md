@@ -1,4 +1,4 @@
-# Timbre Resources
+# Timbre resources
 
 This is a living document of resources to support digital instrument makers and music technologists work with and design timbre. Community contributions via pull requests are welcomed.
 
@@ -8,7 +8,7 @@ This is a living document of resources to support digital instrument makers and 
 
 [Timbre Toolbox](https://github.com/MPCL-McGill/TimbreToolbox-R2021a) | MATLAB toolbox for computing audio descriptors.
 
-[MIR Toolbox](https://www.jyu.fi/hytk/fi/laitokset/mutku/en/research/materials/mirtoolbox) | Low and high level audio feature extraction. It is written in Matlab and includes preprocessing, classification, similarity measures and clustering functionality.
+[MIR Toolbox](https://github.com/olivierlar/mirtoolbox) | Low and high level audio feature extraction. It is written in Matlab and includes preprocessing, classification, similarity measures and clustering functionality.
 
 [LibXtract](http://jamiebullock.github.io/LibXtract/documentation/) | Libxtract can extract low level features in real time. It is written in C, Max-MSP, Pure Data, Super Collider and Vamp.
 
