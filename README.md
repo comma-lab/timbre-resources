@@ -16,6 +16,8 @@ This is a living document of resources to support digital instrument makers and 
 
 [Sonic Visualiser](https://www.sonicvisualiser.org/) | A free, open-source application for Windows, Linux, and Mac, designed to be the first program you reach for when you want to study a music recording closely. It's designed for musicologists, archivists, signal-processing researchers, and anyone else looking for a friendly way to look at what lies inside the audio file.
 
+[Spear](https://www.klingbeil.com/spear/) | SPEAR is an application for audio analysis, editing and synthesis. The analysis procedure (which is based on the traditional McAulay-Quatieri technique) attempts to represent a sound with many individual sinusoidal tracks (partials), each corresponding to a single sinusoidal wave with time varying frequency and amplitude.
+
 [Audio Features Ontology](https://motools.sourceforge.net/doc/audio_features.html) | This ontology expresses some common concepts to represent some features of audio signals. It mainly relies on the Event ontology, in order to classify particular parts of the timeline backing an audio signal. It also supports dense features, such as chromagrams, onset detection function etc.
 
 ### Machine learning and AI
